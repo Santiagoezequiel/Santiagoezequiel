@@ -17,7 +17,7 @@
 ##### BIO
 
 - ⭐ Familiar with :
-  - Docker. - CI/CD: Jenkins. - Bash Scripting
+  - Docker. - CI/CD: Jenkins. - Bash Scripting - Python.
 - 🌍 Cloud native is something I'm also interested in.
 - 😃 Starting in IT industry from scratch.
 - 🌱 Learning all about **Automation** **CI/CD** **DevOps Culture** **Monitoring**
