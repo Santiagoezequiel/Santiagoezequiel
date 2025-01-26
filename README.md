@@ -24,4 +24,4 @@
 - 💬 Ping me about **IaC**.
 - 📫 Reach me [On LinkedIn](https://www.linkedin.com/in/santiago-castano-devops/)
 - 👓 Interesting fact: nowadays I'm studing english lenguage.
-- 🧙 Fun fact: Lover of anime 📺 and videogames🎮.
+- 🧙 Fun fact: Lover of videogames🎮.
